@@ -1,0 +1,3 @@
+func test_print(arg) {
+  echo("printed:", arg)
+}
